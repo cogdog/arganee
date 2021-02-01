@@ -19,7 +19,7 @@
 					</ul>
 					
 					<ul class="copyright">
-						<li>Eventually theme (<a href="http://html5up.net/license">CC-BY</a>) from <a href="http://html5up.net">HTML5 UP</a> &bull; Wordpressified by <a href="http://cog.dog/" target="_blank">cog.dog</a></li> 
+						<li>Eventually theme (<a href="https://html5up.net/license">CC-BY</a>) from <a href="https://html5up.net">HTML5 UP</a> &bull; Wordpressified by <a href="https://cog.dog/" target="_blank">cog.dog</a></li> 
 					</ul>
 					
 				</div>

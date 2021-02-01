@@ -13,7 +13,7 @@ jQuery(document).ready(function(){
 
 	// Let's get some posts!
 	jQuery.ajax({
-	  url:'http://arganee.world/wp-json/wp/v2/posts/?per_page=25',
+	  url:'https://arganee.world/wp-json/wp/v2/posts/?per_page=25',
 	  jsonp:"cb",
 	  dataType:'json',
 	  success: function(data) {

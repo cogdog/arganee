@@ -26,7 +26,7 @@
 				<div class="site-name">
 					
 					<h1>#arganee world</h1>
-					<h2 id="site-description">#ɐɹƃɐuǝǝ ʍoɹןp</h1>
+					<h2 id="site-description">#ɐɹƃɐuǝǝ ʍoɹןp</h2>
 				</div>
 			</header>
 			<div class="main">

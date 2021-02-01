@@ -49,12 +49,19 @@
 
 	}
 
-
+#footer ul {
+	margin:0;
+}
 
 /* Entry */
 
 .entry {
-    width: 60%;
+    width: 70%;
+}
+
+section.entry-content {
+    font-size: 2rem;
+    line-height: 1.2;
 }
 
 @media screen and (max-width: 736px) {
